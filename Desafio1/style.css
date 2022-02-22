@@ -1,0 +1,32 @@
+*{
+    font-family: serif;
+}
+body{
+    height: 100%;
+}
+div{
+    width: 400px;
+    height: 200px;
+    background-color: yellow;
+    background-image: url('/imagens/background.png');
+    background-repeat: no-repeat;
+    background-size: 400px 200px;
+}
+.insta{
+    list-style-image: url('/imagens/Insta.png');
+}
+.twitter{
+    list-style-image: url('/imagens/Twitter.png');
+}
+.youtube{
+    list-style-image: url('/imagens/Youtube.png');
+}
+ul {
+    padding-top: 2px;
+    padding-left: 50px;
+}
+h3{
+    padding-top: 10px;
+    padding-left: 15px;
+    font-size: 22px;
+}
